@@ -25,3 +25,14 @@
  .formalign{
     left:50%;
  }
+
+ .dispNone{
+     display:none;
+ }
+
+ .disBlock{
+     display: block;
+ }
+ .red{
+     color:red;
+ }
